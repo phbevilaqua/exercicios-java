@@ -23,7 +23,6 @@ public class Ex2Nota {
                 break;
             }
         }
-        System.out.println("A nota inserida foi: " + nota);
     }
 
 }
