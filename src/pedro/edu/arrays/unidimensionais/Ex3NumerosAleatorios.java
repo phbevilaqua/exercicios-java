@@ -5,6 +5,8 @@ Ao final mostre os números e seus sucessores.
 
 // random.nextint(100)
 
+package pedro.edu.arrays.unidimensionais;
+
 import java.util.Random;
 
 public class Ex3NumerosAleatorios {

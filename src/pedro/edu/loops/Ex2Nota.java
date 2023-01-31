@@ -5,6 +5,7 @@ e continue pedindo
 até que o usuário informe um valor válido.
 */
 
+package pedro.edu.loops;
 import java.util.Scanner;
 
 public class Ex2Nota {

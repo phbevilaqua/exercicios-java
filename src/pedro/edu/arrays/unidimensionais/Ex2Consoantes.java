@@ -4,6 +4,8 @@ e diga quantas consoantes foram lidas.
 Imprima as consoantes.
 */
 
+package pedro.edu.arrays.unidimensionais;
+
 import java.util.Scanner;
 
 public class Ex2Consoantes {

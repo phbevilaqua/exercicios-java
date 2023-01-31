@@ -9,7 +9,7 @@ Tabuada de 5:
 ...
 5 X 10 = 50
 */
-
+package pedro.edu.loops;
 import java.util.Scanner;
 
 public class Ex5Tabuada {
